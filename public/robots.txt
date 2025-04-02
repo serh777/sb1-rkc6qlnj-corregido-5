@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wowseoweb3.com/sitemap.xml
+
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /admin/
